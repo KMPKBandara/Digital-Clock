@@ -26,6 +26,7 @@ A simple digital clock built using HTML, CSS, and JavaScript. It displays the cu
 ## Usage
 
 You can use this clock to display the current time on any webpage or integrate it into other projects.
+![image](https://github.com/user-attachments/assets/d6d96433-096f-4080-beb5-db34348e075e)
 
 ### How it Works
 
